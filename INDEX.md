@@ -1,3 +1,3 @@
-# apuntes_musica
+# Apuntes de Música
 
 [DAWs](DAW.md)
