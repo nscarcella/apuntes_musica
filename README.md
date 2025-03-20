@@ -2,23 +2,23 @@
 
 ## DAWs
 
-### FL Studio
-- 🟢 Intuitivo
-- 🟡 más orientado a hacer beats
+### Reaper
+- 🟢 Free
+- 🟢 Linux y Windows
+- 🟢 Muy completo
+- 🟢 Muy liviano
+- 🔴 curva empinada (no tanto como pro-tools, pero más complejo que Studio One)
 
-### Ableton
-- 🟢 ya lo tengo y Maiu lo sabe usar
-- 🟡 más orientado a hacer beats
-- 🔴 no es tan cómodo para mezclar?
 ### Studio One
 - 🟢 bien pensado
 - 🟢 sirve para todo
 - 🔴 a algunos se les cuelga
-### Logic
-_ 🟢 barato
-- 🟢 buenos shortcuts
-- 🟢 sirve para todo
-- 🔴 lento?
+
+### Ableton
+- 🟢 ya lo tengo y Maiu lo sabe usar
+- 🟡 más orientado a hacer beats y live-looping
+- 🔴 no es tan cómodo para mezclar y masterizar
+
 ### Pro Tools
 - 🟢 standard de la industria
 - 🟢 muy buen flujo de mezcla
@@ -27,6 +27,22 @@ _ 🟢 barato
 - 🔴 caro
 - 🔴 curva más empinada
 
+### FL Studio
+- 🟢 Intuitivo
+- 🟡 más orientado a hacer beats
+
+
+### ~Logic~ Mac only
+_ 🟢 barato
+- 🟢 buenos shortcuts
+- 🟢 sirve para todo
+- 🔴 lento?
+
 ### Cubase
 - 🔴 Medio aspero?
+- 🔴 caro
 - 🟢 sirve para todo
+
+### Bitwig?
+- 🟢 Linux
+- 🔴 le faltan features?
